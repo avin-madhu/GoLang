@@ -6,9 +6,11 @@ Repo for go lang projects and descript
 
 ### pattern Problems
 
+[pattern 1](patterns/pattern1.go)
 ```
 1111
 2222
 3333
 4444
 ```
+
